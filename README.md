@@ -48,7 +48,7 @@ Estudante na FATEC São Roque 👨‍🎓
 
 ## Status e Estatística
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=dark" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=dark)
 
 ![GitHub Status de Gustavo Matheus](https://github-readme-stats.vercel.app/api?username=gmatthewsfeuer&show_icons=true&theme=dark)
 
