@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="synth.gif">
+<img align="right" width="400" height="400" src="https://github.com/gmatthewsfeuer/gmatthewsfeuer/blob/master/synth.gif">
 
 # Olá, eu sou Gustavo Matheus 🤟🏼
 
