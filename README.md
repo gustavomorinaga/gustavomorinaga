@@ -57,4 +57,7 @@ Estudante na FATEC São Roque 👨‍🎓
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=dark" />
 </a>
 
+<br>
+<br>
+
 ### Obrigado pela visita! Espero que possamos fazer networking ❤️
