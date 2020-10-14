@@ -51,7 +51,7 @@ Estudante na FATEC São Roque 👨‍🎓
 ## Status e Estatística
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gmatthewsfeuer&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Status do Gustavo Matheus" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gmatthewsfeuer&hide=issues&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5" alt="GitHub Status do Gustavo Matheus" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=dark" />
