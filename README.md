@@ -36,7 +36,7 @@ Estudante na FATEC São Roque 👨‍🎓
 - 🎧 Amo ouvir Metal, Synthwave e músicas antigas (60' ~ 90')
 - 💎 Tenho costume de ajustar e aprimorar projetos
 
-### Linguagens e Ferramentas:
+### Linguagens, Bibliotecas e Frameworks:
 
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/></code>
@@ -44,8 +44,12 @@ Estudante na FATEC São Roque 👨‍🎓
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="36" height="36"/></code>
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
+### Ferramentas:
+
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
