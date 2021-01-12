@@ -24,6 +24,8 @@ Full-Stack | Design | UI | UX 👨🏻‍💻
 
 Estudante na FATEC São Roque 👨‍🎓
 
+Desenvolvedor Front-end na ADV Tecnologia 💼
+
 ## Sobre mim
 
 - 🌎 Sou de São Roque, SP, Brasil
