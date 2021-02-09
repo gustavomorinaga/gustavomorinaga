@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-morinaga27/">
-    <img align="left" alt="LinkdeIn do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" title="LinkedIn" alt="LinkdeIn do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/gmatthews_feuer/">
-    <img align="left" alt="Instagram do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" title="Instagram" alt="Instagram do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://www.facebook.com/gustavomatheus.cardoso/">
-    <img align="left" alt="Facebook do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img align="left" title="Facebook" alt="Facebook do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
   <a href="mailto:gustavo.morinaga27@gmail.com">
-    <img align="left" alt="Facebook do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" title="Gmail" alt="Facebook do Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Full-Stack | Design | UI | UX 👨🏻‍💻
 
 Estudante na FATEC São Roque 👨‍🎓
 
-Desenvolvedor Front-end na ADV Tecnologia 💼
+Desenvolvedor Full-Stack na ADV Tecnologia 💼
 
 ## Sobre mim
 
@@ -40,27 +40,27 @@ Desenvolvedor Front-end na ADV Tecnologia 💼
 
 ### Linguagens, Bibliotecas e Frameworks:
 
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/sass/sass-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/express/express-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"></code>
+<code><img height="36" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg"></code>
+<code><img height="36" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg"></code>
+<code><img height="36" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/sass/sass-original.svg"></code>
+<code><img height="36" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg"></code>
+<code><img height="36" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg"></code>
+<code><img height="36" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg"></code>
+<code><img height="36" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original.svg"></code>
+<code><img height="36" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="36" title="React" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original.svg"></code>
+<code><img height="36" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="36" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="36" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/express/express-original.svg"></code>
+<code><img height="36" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="36" title="Material Design" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"></code>
 
 ### Ferramentas:
 
-<code><img height="36" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="36" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg"></code>
+<code><img height="36" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="36" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="36" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ## Status e Estatística
 
