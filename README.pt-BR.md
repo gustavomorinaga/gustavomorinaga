@@ -2,29 +2,16 @@
 
 # Olá, eu sou Gustavo Matheus 🤟🏼
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-morinaga27/">
-    <img align="left" title="LinkedIn" alt="LinkdedIn de Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/gmatthews_feuer/">
-    <img align="left" title="Instagram" alt="Instagram de Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.facebook.com/gustavomatheus.cardoso/">
-    <img align="left" title="Facebook" alt="Facebook de Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-  <a href="mailto:gustavo.morinaga27@gmail.com">
-    <img align="left" title="Gmail" alt="Facebook de Gustavo Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavo-morinaga27/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gmatthews_feuer/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/gustavomatheus.cardoso/)
+[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:gustavo.morinaga27@gmail.com)
 
-<br />
-<br />
+👨🏻‍💻 Full-Stack | Design | UI | UX
 
-Full-Stack | Design | UI | UX 👨🏻‍💻
+👨‍🎓 Estudante na FATEC São Roque
 
-Estudante na FATEC São Roque 👨‍🎓
-
-Desenvolvedor Full-Stack na ADV Tecnologia 💼
+💼 Desenvolvedor Full-Stack na ADV Tecnologia
 
 ## Sobre mim
 
