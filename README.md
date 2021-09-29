@@ -55,11 +55,11 @@
 	<a href="https://reactjs.org" target="_blank">
 		<img height="36" title="React" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg">
 	</a>
-	<a href="https://reactjs.org" target="_blank">
+	<a href="https://angular.io" target="_blank">
 		<img height="36" title="Angular" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
 	</a>
-	<a href="https://angular.io" target="_blank">
-		<img height="36" title="React" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg">
+	<a href="https://nextjs.org" target="_blank">
+		<img height="36" title="Next.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg">
 	</a>
 	<a href="https://nodejs.org" target="_blank">
 		<img height="36" title="Node.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg">
