@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://github.com/gmatthewsfeuer/gmatthewsfeuer/blob/master/synth-circle.gif">
+<img align="right" width="350" height="350" src="./synth-circle.gif">
 
 # Hi, I'm Gustavo Matheus 🤟🏼
 
@@ -106,11 +106,20 @@
 	<a href="https://www.markdownguide.org" target="_blank">
   	<img height="36" title="Markdown" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/markdown.svg">
 	</a>
+	<a href="https://insomnia.rest" target="_blank">
+  	<img height="36" title="Insomnia" src="./insomnia.png">
+	</a>
 	<a href="https://vercel.com" target="_blank">
   	<img height="36" title="Vercel" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel_light.svg">
 	</a>
 	<a href="https://heroku.com" target="_blank">
   	<img height="36" title="Heroku" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg">
+	</a>
+	<a href="https://figma.com" target="_blank">
+  	<img height="36" title="Figma" src="./figma.svg">
+	</a>
+	<a href="https://framer.com" target="_blank">
+  	<img height="36" title="Framer" src="./framer.png">
 	</a>
 </div>
 
