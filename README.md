@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="./synth-circle.gif">
+<img align="right" width="350" height="350" src="./img/synth-circle.gif">
 
 # Hi, I'm Gustavo Matheus 🤟🏼
 
@@ -107,7 +107,7 @@
   	<img height="36" title="Markdown" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/markdown.svg">
 	</a>
 	<a href="https://insomnia.rest" target="_blank">
-  	<img height="36" title="Insomnia" src="./insomnia.png">
+  	<img height="36" title="Insomnia" src="./icons/insomnia.png">
 	</a>
 	<a href="https://vercel.com" target="_blank">
   	<img height="36" title="Vercel" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel_light.svg">
@@ -116,10 +116,10 @@
   	<img height="36" title="Heroku" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg">
 	</a>
 	<a href="https://figma.com" target="_blank">
-  	<img height="36" title="Figma" src="./figma.svg">
+  	<img height="36" title="Figma" src="./icons/figma.svg">
 	</a>
 	<a href="https://framer.com" target="_blank">
-  	<img height="36" title="Framer" src="./framer.png">
+  	<img height="36" title="Framer" src="./icons/framer.png">
 	</a>
 </div>
 
@@ -137,6 +137,6 @@
 
 ## Alternative README Language
 
-- [Portuguese BR](./README.pt-BR.md)
+- [Portuguese BR](./translations/README.pt-BR.md)
 
 ### Thanks for the visit! I hope we can networking ❤️
