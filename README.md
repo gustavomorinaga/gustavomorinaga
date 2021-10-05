@@ -125,11 +125,12 @@
 
 ## Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gmatthewsfeuer&hide=issues&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5" alt="GitHub Status do Gustavo Matheus" />
+<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmatthewsfeuer&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&border_radius=15&hide_border=true" alt="Gustavo Matheus's GitHub Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=radical&border_radius=15&hide_border=true"
+	alt="Most Used Languages" />
 </a>
 
 <br>
