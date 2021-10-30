@@ -15,6 +15,7 @@
 
 ## About me
 
+- 🧑🏻 I'm 21 years old
 - 🌎 I'm from São Roque, SP, Brazil
 - 🌱 Studying hard to become a good Full-Stack Developer
 - 👯 I want to collaborate on open-source JavaScript projects
@@ -126,10 +127,10 @@
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmatthewsfeuer&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&border_radius=15&hide_border=true" alt="Gustavo Matheus's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gmatthewsfeuer&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true" alt="Gustavo Matheus's GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=radical&border_radius=15&hide_border=true"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=radical&hide_border=true"
 	alt="Most Used Languages" />
 </a>
 
