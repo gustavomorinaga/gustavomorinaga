@@ -16,7 +16,8 @@
 ## About me
 
 - 🧑🏻 I'm 21 years old
-- 🌎 I'm from São Roque, SP, Brazil
+- 🏠 I live in São Roque, SP, Brazil
+- 🌎 I'm from Isesaki, Gunma, Japan
 - 🌱 Studying hard to become a good Full-Stack Developer
 - 👯 I want to collaborate on open-source JavaScript projects
 - 💬 Ask me something! I love to answer them
@@ -137,8 +138,8 @@
 <br>
 <br>
 
+### Thanks for the visit! I hope we can networking ❤️
+
 ## Alternative README Language
 
 - [Portuguese BR](./translations/README.pt-BR.md)
-
-### Thanks for the visit! I hope we can networking ❤️
