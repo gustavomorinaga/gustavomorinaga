@@ -16,7 +16,8 @@
 ## Sobre mim
 
 - 🧑🏻 Tenho 21 anos
-- 🌎 Sou de São Roque, SP, Brasil
+- 🏠 Moro em São Roque, SP, Brasil
+- 🌎 Nasci em Isesaki, Gunma, Japão
 - 🌱 Estudando bastante para virar um bom dev Full-Stack
 - 👯 Quero colaborar em projetos open-source de JavaScript
 - 💬 Me pergunte algo! Adoro respondê-las
