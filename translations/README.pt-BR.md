@@ -78,6 +78,9 @@
 	<a href="https://tailwindcss.com" target="_blank">
 		<img height="36" title="Tailwind CSS" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg">
 	</a>
+	<a href="https://chakra-ui.com" target="_blank">
+		<img height="36" title="Chakra-UI" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/9a2576d0ad510179d45268f5853c16c689f1d364/logo/logomark-colored.svg">
+	</a>
 </div>
 
 ### Ferramentas
