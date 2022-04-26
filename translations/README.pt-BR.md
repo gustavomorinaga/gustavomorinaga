@@ -50,6 +50,12 @@
  <a href="https://www.typescriptlang.org">
   <img height="36" title="TypeScript" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg">
  </a>
+ <a href="https://nodejs.org">
+  <img height="36" title="Node.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg">
+ </a>
+ <a href="https://expressjs.com">
+  <img height="36" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/express/express-original.svg">
+ </a>
  <a href="https://www.php.net">
   <img height="36" title="PHP" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg">
  </a>
@@ -62,17 +68,17 @@
  <a href="https://reactjs.org">
   <img height="36" title="React" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg">
  </a>
+ <a href="https://reactnative.dev">
+  <img height="36" title="React Native" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg">
+ </a>
  <a href="https://angular.io">
   <img height="36" title="Angular" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
  </a>
  <a href="https://nextjs.org">
   <img height="36" title="Next.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg">
  </a>
- <a href="https://nodejs.org">
-  <img height="36" title="Node.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg">
- </a>
- <a href="https://expressjs.com">
-  <img height="36" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/express/express-original.svg">
+ <a href="https://docs.nativebase.io/typescript">
+  <img height="36" title="NativeBase" src="https://docs.nativebase.io/_next/image?url=https%3A%2F%2Fdocs.nativebase.io%2Fimg%2Fnativebaselogo.svg&w=48&q=100">
  </a>
  <a href="https://getbootstrap.com">
   <img height="36" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg">
@@ -85,6 +91,9 @@
  </a>
  <a href="https://chakra-ui.com">
   <img height="36" title="Chakra-UI" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/9a2576d0ad510179d45268f5853c16c689f1d364/logo/logomark-colored.svg">
+ </a>
+ <a href="https://www.primefaces.org/primeng">
+  <img height="36" title="PrimeNG" src="https://www.primefaces.org/presskit/primeng-logo.svg">
  </a>
 </div>
 
@@ -125,19 +134,22 @@
    <img height="36" title="Markdown" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/markdown.svg">
  </a>
  <a href="https://insomnia.rest">
-   <img height="36" title="Insomnia" src="../icons/insomnia.png">
+   <img height="36" title="Insomnia" src="./icons/insomnia.png">
  </a>
  <a href="https://vercel.com">
    <img height="36" title="Vercel" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel_light.svg">
+ </a>
+ <a href="https://www.netlify.com/">
+   <img height="36" title="Netlify" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5b101d9cfb7b73474403c651ad597ac7f4516b7b/icons/netlify.svg">
  </a>
  <a href="https://heroku.com">
    <img height="36" title="Heroku" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg">
  </a>
  <a href="https://figma.com">
-   <img height="36" title="Figma" src="../icons/figma.svg">
+   <img height="36" title="Figma" src="./icons/figma.svg">
  </a>
  <a href="https://framer.com">
-   <img height="36" title="Framer" src="../icons/framer.png">
+   <img height="36" title="Framer" src="./icons/framer.png">
  </a>
 </div>
 
