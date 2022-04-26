@@ -77,7 +77,7 @@
  <a href="https://nextjs.org">
   <img height="36" title="Next.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg">
  </a>
- <a href="https://docs.nativebase.io/typescript">
+ <a href="https://nativebase.io/">
   <img height="36" title="NativeBase" src="https://docs.nativebase.io/_next/image?url=https%3A%2F%2Fdocs.nativebase.io%2Fimg%2Fnativebaselogo.svg&w=48&q=100">
  </a>
  <a href="https://getbootstrap.com">
