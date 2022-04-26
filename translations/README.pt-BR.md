@@ -44,6 +44,12 @@
  <a href="https://sass-lang.com">
   <img height="36" title="Sass" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg">
  </a>
+ <a href="https://tailwindcss.com">
+  <img height="36" title="Tailwind CSS" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg">
+ </a>
+ <a href="https://getbootstrap.com">
+  <img height="36" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg">
+ </a>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img height="36" title="JavaScript" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg">
  </a>
@@ -71,29 +77,26 @@
  <a href="https://reactnative.dev">
   <img height="36" title="React Native" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg">
  </a>
- <a href="https://angular.io">
-  <img height="36" title="Angular" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
- </a>
  <a href="https://nextjs.org">
   <img height="36" title="Next.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg">
  </a>
- <a href="https://nativebase.io/">
+ <a href="https://nativebase.io">
   <img height="36" title="NativeBase" src="https://docs.nativebase.io/_next/image?url=https%3A%2F%2Fdocs.nativebase.io%2Fimg%2Fnativebaselogo.svg&w=48&q=100">
- </a>
- <a href="https://getbootstrap.com">
-  <img height="36" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg">
- </a>
- <a href="https://material.io">
-  <img height="36" title="Material Design" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png">
- </a>
- <a href="https://tailwindcss.com">
-  <img height="36" title="Tailwind CSS" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg">
  </a>
  <a href="https://chakra-ui.com">
   <img height="36" title="Chakra-UI" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/9a2576d0ad510179d45268f5853c16c689f1d364/logo/logomark-colored.svg">
  </a>
+ <a href="https://mui.com">
+  <img height="36" title="Material UI" src="https://www.svgrepo.com/show/354048/material-ui.svg">
+ </a>
+ <a href="https://angular.io">
+  <img height="36" title="Angular" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
+ </a>
  <a href="https://www.primefaces.org/primeng">
   <img height="36" title="PrimeNG" src="https://www.primefaces.org/presskit/primeng-logo.svg">
+ </a>
+ <a href="https://material.angular.io">
+  <img height="36" title="Angular Material" src="https://material.angular.io/assets/img/angular-material-logo.svg">
  </a>
 </div>
 
@@ -134,7 +137,7 @@
    <img height="36" title="Markdown" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/markdown.svg">
  </a>
  <a href="https://insomnia.rest">
-   <img height="36" title="Insomnia" src="./icons/insomnia.png">
+   <img height="36" title="Insomnia" src="../icons/insomnia.png">
  </a>
  <a href="https://vercel.com">
    <img height="36" title="Vercel" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel_light.svg">
@@ -146,10 +149,10 @@
    <img height="36" title="Heroku" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg">
  </a>
  <a href="https://figma.com">
-   <img height="36" title="Figma" src="./icons/figma.svg">
+   <img height="36" title="Figma" src="../icons/figma.svg">
  </a>
  <a href="https://framer.com">
-   <img height="36" title="Framer" src="./icons/framer.png">
+   <img height="36" title="Framer" src="../icons/framer.png">
  </a>
 </div>
 
