@@ -14,7 +14,7 @@
 
 👨🏻‍💻 Full-Stack | Design | UI | UX
 
-👨‍🎓 Student at FATEC São Roque [5/6]
+👨‍🎓 Student at FATEC São Roque [6/6]
 
 💼 Full-Stack Developer at ADV Tecnologia
 

@@ -14,7 +14,7 @@
 
 👨🏻‍💻 Full-Stack | Design | UI | UX
 
-👨‍🎓 Estudante na FATEC São Roque [5/6]
+👨‍🎓 Estudante na FATEC São Roque [6/6]
 
 💼 Desenvolvedor Full-Stack na ADV Tecnologia
 
