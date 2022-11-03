@@ -20,7 +20,7 @@
 
 ## About me
 
-- 🧑🏻 I'm 21 years old
+- 🧑🏻 I'm 22 years old
 - 🏠 I live in São Roque, SP, Brazil
 - 🌎 I'm from Isesaki, Gunma, Japan
 - 🌱 Studying hard to become a good Full-Stack Developer
