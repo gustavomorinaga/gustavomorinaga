@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-- 🧑🏻 Tenho 21 anos
+- 🧑🏻 Tenho 22 anos
 - 🏠 Moro em São Roque, SP, Brasil
 - 🌎 Nasci em Isesaki, Gunma, Japão
 - 🌱 Estudando bastante para virar um bom dev Full-Stack
