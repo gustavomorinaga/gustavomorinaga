@@ -14,9 +14,9 @@
 
 👨🏻‍💻 Full-Stack | Design | UI | UX
 
-👨‍🎓 Estudante na FATEC São Roque [6/6]
+👨‍🎓 Certificado de Tecnólogo em Sistemas de Internet na [Fatec São Roque](https://www.fatecsaoroque.edu.br)
 
-💼 Desenvolvedor Full-Stack na ADV Tecnologia
+💼 Desenvolvedor Full-Stack na [ADV Tecnologia](https://www.advtecnologia.com.br)
 
 ## Sobre mim
 
@@ -92,11 +92,14 @@
  <a href="https://angular.io">
   <img height="36" title="Angular" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
  </a>
+ <a href="https://material.angular.io">
+  <img height="36" title="Angular Material" src="https://material.angular.io/assets/img/angular-material-logo.svg">
+ </a>
  <a href="https://www.primefaces.org/primeng">
   <img height="36" title="PrimeNG" src="https://www.primefaces.org/presskit/primeng-logo.svg">
  </a>
- <a href="https://material.angular.io">
-  <img height="36" title="Angular Material" src="https://material.angular.io/assets/img/angular-material-logo.svg">
+ <a href="https://kit.svelte.dev">
+  <img height="36" title="SvelteKit" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/svelte.svg">
  </a>
 </div>
 
