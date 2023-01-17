@@ -5,7 +5,7 @@
 
 <img align="right" width="350" height="350" src="./img/synth-circle.gif">
 
-# Hi, I'm Gustavo Matheus 🤟🏼
+# Hi, I'm Gustavo Morinaga 🤟🏼
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavomorinaga/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gustavomorinaga/)
@@ -71,11 +71,14 @@
  <a href="https://www.mongodb.com">
   <img height="36" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original.svg">
  </a>
+ <a href="https://firebase.google.com">
+  <img height="36" title="Firebase" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/firebase.svg">
+ </a>
  <a href="https://reactjs.org">
   <img height="36" title="React" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg">
  </a>
- <a href="https://reactnative.dev">
-  <img height="36" title="React Native" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg">
+ <a href="https://expo.io">
+  <img height="36" title="Expo" src="https://static.expo.dev/static/favicons/favicon-dark-48x48.png">
  </a>
  <a href="https://nextjs.org">
   <img height="36" title="Next.js" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg">
@@ -119,10 +122,13 @@
    <img height="36" title="Visual Studio Code" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg">
  </a>
  <a href="https://www.npmjs.com">
-   <img height="36" title="NPM" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/npm.svg">
+   <img height="36" title="npm" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/npm.svg">
  </a>
  <a href="https://yarnpkg.com">
    <img height="36" title="Yarn" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/yarn.svg">
+ </a>
+ <a href="https://pnpm.io">
+   <img height="36" title="pnpm" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/pnpm.svg">
  </a>
  <a href="https://webpack.js.org">
    <img height="36" title="Webpack" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/73a6f3b57cb9ba44f67d1c000588bacda537ae00/icons/webpack.svg">
@@ -147,6 +153,9 @@
  </a>
  <a href="https://www.netlify.com/">
    <img height="36" title="Netlify" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5b101d9cfb7b73474403c651ad597ac7f4516b7b/icons/netlify.svg">
+ </a>
+ <a href="https://render.com">
+   <img height="36" title="Render" src="https://render.com/favicon.svg">
  </a>
  <a href="https://heroku.com">
    <img height="36" title="Heroku" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg">
