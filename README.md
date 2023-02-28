@@ -181,7 +181,7 @@
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=gustavomorinaga&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true" alt="Gustavo Matheus's GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Languages">
-  <img width="337px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomorinaga&layout=compact&theme=radical&hide_border=true"
+  <img width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomorinaga&layout=compact&theme=radical&hide_border=true"
  alt="Most Used Languages" />
 </a>
 
