@@ -140,6 +140,9 @@
  <a href="https://babeljs.io">
    <img height="36" title="Babel" src="../icons/babel.svg">
  </a>
+ <a href="https://swc.rs">
+   <img height="36" title="SWC" src="../icons/swc.svg">
+ </a>
  <a href="https://vitejs.dev">
    <img height="36" title="Vite" src="../icons/vite.svg">
  </a>
