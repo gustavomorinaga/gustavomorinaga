@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-<img align="right" width="350" height="350" src="../img/synth-circle.gif">
+<img align="right" width="350" height="350" src="../img/synth-circle.webp">
 
 # Olá, eu sou Gustavo Morinaga 🤟🏼
 
