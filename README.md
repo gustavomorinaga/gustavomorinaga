@@ -28,8 +28,6 @@
 
 💼 Full-Stack Developer at [ADV Tecnologia](https://advtecnologia.com.br/)
 
-<br>
-
 ## 🙋🏻‍♂️ About me
 
 - 🧑🏻 I'm 24 years old
