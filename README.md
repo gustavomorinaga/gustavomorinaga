@@ -20,11 +20,15 @@
   </a>
 </div>
 
+<br>
+
 👨🏻‍💻 Full-Stack Dev | UI & UX Designer
 
 👨‍🎓 Internet Systems Technologist Certificate at [Fatec São Roque](https://fatecsaoroque.edu.br/)
 
 💼 Full-Stack Developer at [ADV Tecnologia](https://advtecnologia.com.br/)
+
+<br>
 
 ## 🙋🏻‍♂️ About me
 
