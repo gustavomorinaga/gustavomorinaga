@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://gustavomorinaga.dev/" title="Visit website">
-    <img width="447" src="https://img.shields.io/badge/%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80💻_visit_website_%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-100F10.svg?style=for-the-badge&logoColor=white" alt="Visit website" />
+    <img width="427" src="https://img.shields.io/badge/%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80💻_visit_website_%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-100F10.svg?style=for-the-badge&logoColor=white" alt="Visit website" />
   </a>
   <a href="https://linkedin.com/in/gustavomorinaga/" title="LinkedIn">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,8 +15,8 @@
   <a href="https://facebook.com/gustavomorinaga/" title="Facebook">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:me@gustavomorinaga.dev" title="GMail">
-    <img src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />
+  <a href="mailto:me@gustavomorinaga.dev" title="Gmail">
+    <img src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
@@ -26,11 +26,11 @@
 
 👨‍🎓 Internet Systems Technologist Certificate at [Fatec São Roque](https://fatecsaoroque.edu.br/)
 
-💼 Full-Stack Developer at [ADV Tecnologia](https://advtecnologia.com.br/)
+💼 Software Developer at [QuartaVia](https://quartavia.com.br/)
 
 ## 🙋🏻‍♂️ About me
 
-- 🧑🏻 I'm 24 years old
+- 🧑🏻 I'm 25 years old
 - 🏠 I live in São Roque, SP, Brazil
 - 🌎 I'm from Isesaki, Gunma, Japan
 - 🌱 Studying hard to be a better Full-Stack Developer
@@ -41,7 +41,7 @@
 
 ## 🤹🏻‍♂️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,md,nodejs,bun,express,svelte,angular,react,nextjs,mongodb,postgres,redis,firebase,supabase,vite,webpack,pnpm,yarn,windows,linux,powershell,git,github,vscode,netlify,vercel,notion,obsidian,figma)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,postcss,tailwind,daisyui,js,ts,json,md,nodejs,bun,express,nest,svelte,angular,primeng,react,reactrouter,zustand,nextjs,expo,mongodb,postgres,redis,firebase,supabase,prisma,drizzle,jwt,vite,webpack,turborepo,eslint,prettier,biome,pnpm,yarn,npm,windows,linux,wsl,terminal,git,github,vscode,netlify,neon,turso,railway,vercel,strapi,notion,obsidian,figma,jira,slack)](https://github.com/lelouchfr/skill-icons)
 
 ## 📊 Stats
 
