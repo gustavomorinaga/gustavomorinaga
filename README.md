@@ -41,17 +41,7 @@
 
 ## 🤹🏻‍♂️ Skills
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,postcss,tailwind,daisyui,js,ts,json,md,nodejs,bun,express,nest,svelte,angular,primeng,react,reactrouter,zustand,nextjs,expo,mongodb,postgres,redis,firebase,supabase,prisma,drizzle,jwt,vite,webpack,turborepo,eslint,prettier,biome,pnpm,yarn,npm,windows,linux,wsl,terminal,git,github,vscode,netlify,neon,turso,railway,vercel,strapi,notion,obsidian,figma,jira,slack)](https://github.com/lelouchfr/skill-icons)
-
-## 📊 Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=gustavomorinaga&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true" alt="Gustavo Matheus's GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Languages">
-  <img width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomorinaga&layout=compact&theme=radical&hide_border=true"
- alt="Most Used Languages" />
-</a>
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,postcss,tailwind,daisyui,js,ts,json,md,nodejs,bun,express,nest,svelte,angular,primeng,react,reactrouter,zustand,nextjs,expo,mongodb,postgres,redis,firebase,supabase,prisma,drizzle,jwt,vite,webpack,turborepo,eslint,prettier,biome,pnpm,yarn,npm,windows,linux,wsl,terminal,git,github,vscode,aws,azure,netlify,neon,turso,railway,vercel,metabase,strapi,notion,obsidian,figma,jira,slack)](https://github.com/lelouchfr/skill-icons)
 
 <div align="center">
   <h3>Thanks for the visit! I hope we can networking ❤️</h3>
