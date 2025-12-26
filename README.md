@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo Morinaga 🤟🏻
 
-<img align="right" src="https://lastfm-recently-played.vercel.app/api?user=gustavomorinaga&header_style=compact_stats_only&count=3&width=350" alt="Recently played in Last.fm" />
+<img align="right" src="https://lastfm-recently-played.vercel.app/api?user=gustavomorinaga&bg_color=242938&count=3&footer_style=wave&header_style=compact_stats_only&loved_style=4&loved=true&width=350" alt="Recently played in Last.fm" />
 
 <div align="left">
   <a href="https://gustavomorinaga.dev/" title="Visit website">
